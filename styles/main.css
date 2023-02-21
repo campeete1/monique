@@ -24,6 +24,7 @@
 }
 .main-btn:hover{
     background-color: #4d2307;
+    color: white; 
 }
 .monique-btn{
     border: 2px solid #4d2307;
